@@ -1,6 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Павел Осипов](https://up.htmlacademy.ru/javascript/10/user/217599).
+* Наставник: [Федотов Александр](https://htmlacademy.ru/profile/id247015).
 
 ---
 
